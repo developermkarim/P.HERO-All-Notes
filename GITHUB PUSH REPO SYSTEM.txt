@@ -1,0 +1,7 @@
+git repository system to push
+1.git init
+2.git add .
+3. git commit -m"insert Message here"
+4.git remote add origin https://github.com/Usheninte/example.git
+5.git push origin master
+6. git push
